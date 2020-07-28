@@ -1,2 +1,2 @@
 # Web-Design-Challenge
-use HTML and CSS to create a Web Visualization Dashboard
+use HTML, CSS, Bootstrap to create a Web Visualization Dashboard
