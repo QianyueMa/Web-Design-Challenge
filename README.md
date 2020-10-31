@@ -1,11 +1,11 @@
-# Web-Design-Challenge
+# Web-Design-Challenge - Latitude Analysis
 
-Use HTML, CSS, Bootstrap to create a Web Visualization Dashboard
+Use HTML, CSS, Bootstrap to create a Web Visualization Dashboard to do a latitude analysis.
 ![Images/landingResize.png](Images/landingResize.png)
 
 ## Navigation of the repo: Submission
 
-* The **html** file are contained in the folder corresponding to the challenge **WebVisualizations**.
+* The **html** files are contained in the folder corresponding to the challenge **WebVisualizations**.
 
 ## Objectives
 
